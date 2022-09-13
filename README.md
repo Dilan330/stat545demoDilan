@@ -1,4 +1,3 @@
 # stat545demoDilan
 Sept-13th Lecture 2 - Demonstration 
-
-Blah blah blah 
+I'm trying not to cause a conflict 
